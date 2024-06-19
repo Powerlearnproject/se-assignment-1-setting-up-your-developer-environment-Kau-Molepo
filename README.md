@@ -3,12 +3,12 @@
 # Dev_Setup
 Setup Development Environment
 
-#Assignment: Setting Up Your Developer Environment
+# Assignment: Setting Up Your Developer Environment
 
-#Objective:
+# Objective:
 This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
-#Tasks:
+# Tasks:
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
@@ -24,6 +24,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 - Status: Completed
 
 ![alt text](image.png)
+
 
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
@@ -54,7 +55,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    - In Git Bash, navigate to the directory where you want to create your local repository:
       - cd ---> Change directory (must pass the landing directory) 
       ```
-        cd path/to/your/directory
+        cd B:\PLP\PLP_Software_Engineering\se-assignment-1-setting-up-your-developer-environment-Kau-Molepo
       ```
    - Initialize a new Git repository:
       ```
