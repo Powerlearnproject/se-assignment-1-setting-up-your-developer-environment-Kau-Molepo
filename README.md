@@ -44,7 +44,7 @@ This assignment aims to familiarize you with the tools and configurations necess
  git config --global user.name "Kau-Molepo"
 ``` 
 ```
- git config --global user.email "endric.molepo@gmail.com"
+ git config --global user.email "me@gmail.com"
 ```
    - Security Confirmation between github and local machine
 - Create a New Repository on GitHub
